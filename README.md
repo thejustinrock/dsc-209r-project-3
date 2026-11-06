@@ -6,6 +6,10 @@ How does the relationship between healthcare spending and life expectancy vary a
 
 This interactive D3.js visualization uses World Bank data from 2000 to 2018. Each dot represents a country or territory. The horizontal axis shows healthcare spending per person on a logarithmic scale, and the vertical axis shows life expectancy at birth in years. Colors identify World Bank regions.
 
+## Open the visualization
+
+[Launch the live interactive chart](https://thejustinrock.github.io/dsc-209r-project-3/index.html)
+
 ## Explore the chart
 
 - **Change the year** with the slider to see how the distribution shifts.
